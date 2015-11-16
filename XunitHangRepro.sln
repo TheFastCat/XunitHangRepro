@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{A3FFEB01-84C2-4283-96D4-05691FD05DFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Test.System", "Api.Test.System\Api.Test.System.csproj", "{594E2593-D48A-46DF-873C-90085ED37B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Any CPU = Development|Any CPU
+		Development|x64 = Development|x64
+		Local|Any CPU = Local|Any CPU
+		Local|x64 = Local|x64
+		Production|Any CPU = Production|Any CPU
+		Production|x64 = Production|x64
+		Staging|Any CPU = Staging|Any CPU
+		Staging|x64 = Staging|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Development|Any CPU.Build.0 = Development|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Development|x64.ActiveCfg = Development|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Development|x64.Build.0 = Development|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Local|Any CPU.Build.0 = Local|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Local|x64.ActiveCfg = Local|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Local|x64.Build.0 = Local|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Production|Any CPU.Build.0 = Production|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Production|x64.ActiveCfg = Production|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Production|x64.Build.0 = Production|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Staging|Any CPU.Build.0 = Staging|Any CPU
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Staging|x64.ActiveCfg = Staging|x64
+		{A3FFEB01-84C2-4283-96D4-05691FD05DFB}.Staging|x64.Build.0 = Staging|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Development|Any CPU.Build.0 = Development|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Development|x64.ActiveCfg = Development|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Development|x64.Build.0 = Development|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Local|Any CPU.Build.0 = Local|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Local|x64.ActiveCfg = Local|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Local|x64.Build.0 = Local|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Production|Any CPU.Build.0 = Production|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Production|x64.ActiveCfg = Production|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Production|x64.Build.0 = Production|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Staging|Any CPU.Build.0 = Staging|Any CPU
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Staging|x64.ActiveCfg = Staging|x64
+		{594E2593-D48A-46DF-873C-90085ED37B4E}.Staging|x64.Build.0 = Staging|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

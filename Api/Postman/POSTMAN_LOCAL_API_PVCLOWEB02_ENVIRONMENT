@@ -1,0 +1,23 @@
+{
+	"id": "dd5ef819-ada4-b8b9-2543-879cf748163e",
+	"name": "Local API (pvcloweb02)",
+	"values": [
+		{
+			"key": "url",
+			"value": "pvcloweb02/api",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "http",
+			"type": "text",
+			"name": "protocol",
+			"enabled": true
+		}
+	],
+	"timestamp": 1425585375011,
+	"synced": false,
+	"syncedFilename": ""
+}

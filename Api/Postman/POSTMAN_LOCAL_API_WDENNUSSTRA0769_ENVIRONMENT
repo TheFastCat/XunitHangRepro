@@ -1,0 +1,23 @@
+{
+	"id": "ebc0999a-2b15-50c9-672c-62322fb6a957",
+	"name": "Local API (wdennusstra0769)",
+	"values": [
+		{
+			"key": "url",
+			"value": "wdennusstra0769/api",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "http",
+			"type": "text",
+			"name": "protocol",
+			"enabled": true
+		}
+	],
+	"timestamp": 1411217765574,
+	"synced": false,
+	"syncedFilename": ""
+}

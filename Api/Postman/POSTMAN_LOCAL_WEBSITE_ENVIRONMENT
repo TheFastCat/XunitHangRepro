@@ -1,0 +1,23 @@
+{
+	"id": "70e0e870-41e8-91b7-09b7-97f85fad65ec",
+	"name": "Local Website",
+	"values": [
+		{
+			"key": "url",
+			"value": "localhost:12345/api",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "http",
+			"type": "text",
+			"name": "protocol",
+			"enabled": true
+		}
+	],
+	"timestamp": 1411165497735,
+	"synced": false,
+	"syncedFilename": ""
+}

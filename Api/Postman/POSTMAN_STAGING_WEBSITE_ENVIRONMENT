@@ -1,0 +1,23 @@
+{
+	"id": "68c3cf29-fabe-edc0-9ba9-1c53ebdadb7f",
+	"name": "Staging Website",
+	"values": [
+		{
+			"key": "url",
+			"value": "saleswebsite-staging.azurewebsites.net/api",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "http",
+			"type": "text",
+			"name": "protocol",
+			"enabled": true
+		}
+	],
+	"timestamp": 1411217672101,
+	"synced": false,
+	"syncedFilename": ""
+}

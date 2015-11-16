@@ -1,0 +1,23 @@
+{
+	"id": "44d957d4-2686-db43-b420-5d42d63ba35b",
+	"name": "Local API (Console)",
+	"values": [
+		{
+			"key": "url",
+			"value": "WDENNSSITG0669/api",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "http",
+			"type": "text",
+			"name": "protocol",
+			"enabled": true
+		}
+	],
+	"timestamp": 1419631458246,
+	"synced": false,
+	"syncedFilename": ""
+}

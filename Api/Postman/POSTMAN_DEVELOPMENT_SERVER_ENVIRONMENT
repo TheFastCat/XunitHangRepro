@@ -1,0 +1,23 @@
+{
+	"id": "6f3780da-679c-aa09-094c-c935f2acdf45",
+	"name": "Development Server",
+	"values": [
+		{
+			"key": "url",
+			"value": "capwairdbrelay.servicebus.windows.net/development/api",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "https",
+			"type": "text",
+			"name": "protocol",
+			"enabled": true
+		}
+	],
+	"timestamp": 1411160020942,
+	"synced": false,
+	"syncedFilename": ""
+}
